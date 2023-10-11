@@ -7,8 +7,7 @@
 <img align="right" src="https://i.pinimg.com/originals/9d/a5/a9/9da5a9069c2a814a9e98138afa360ba8.gif" alt="GIF IMG" width="45%" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=600&random=false&width=435&lines=Full+Stack+Web+Developer" alt="Typing SVG" />
 <h3>💫 About Me:</h3>
-<a href=""> Skilled full-stack web developer in MERN. Experienced in solo and team projects. Strong problem-solving and communication skills. Ready to play a role in impactful web development endeavors.</a>
-<br/><br/>
+<p>Skilled full-stack web developer in MERN. Experienced in solo and team projects.<br/>Strong problem-solving and communication skills. Ready to play a role in impactful web development endeavors.</p>
 <h3>🌐 Socials:</h3>
   <table>
   <tr>
