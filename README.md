@@ -10,8 +10,8 @@ Skilled full-stack web developer in MERN. Experienced in solo and team projects.
 
 ### 💼 Portfolio:  <a href='https://leeladhar206.github.io/'>https://leeladhar206.github.io</a>
 
-#### 🔗 LinkedIn: <a href="https://www.linkedin.com/in/leeladharjagarapu/">linkedin.com/in/leeladharjagarapu</a>
-#### 📨Mail:<a href="mailto:leeladharjagarapu@gmail.com">leeladharjagarapu@gmail.com</a>
+####  🔗 LinkedIn: <a href="https://www.linkedin.com/in/leeladharjagarapu/">linkedin.com/in/leeladharjagarapu</a>
+####  📨 Mail:<a href="mailto:leeladharjagarapu@gmail.com">leeladharjagarapu@gmail.com</a>
       
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
@@ -26,6 +26,6 @@ Skilled full-stack web developer in MERN. Experienced in solo and team projects.
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeladhar206&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Leeladhar206&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeladhar206&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Leeladhar206&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
