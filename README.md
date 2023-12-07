@@ -5,8 +5,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=600&random=false&width=435&lines=Full+Stack+Web+Developer" alt="Typing SVG" />
 <img align="right" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif" alt="GIF IMG" width="45%" />
 <h3>💫 About Me:</h3>
-<a href="">Skilled full-stack web developer in MERN. Experienced in solo and team projects.Ready to play a role in impactful web development endeavors.</a>
+Skilled full-stack web developer in MERN. Experienced in solo and team projects.Ready to play a role in impactful web development endeavors.
 <br/> 
+
+### 💾 Portfolio
 
 ### 🌐 Socials:
   <table>
@@ -24,8 +26,6 @@
   </tr>
 </table>
 
-### 🏠 Address:
-Visakhapatnam, Andhra Pradesh
 
 <div>
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
