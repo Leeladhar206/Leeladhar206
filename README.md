@@ -8,8 +8,8 @@
 Skilled full-stack web developer in MERN. Experienced in solo and team projects.Ready to play a role in impactful web development endeavors.
 <br/> 
 
-### 💾 Portfoli 
-Checkout my portifolio  <a href='https://leeladhar206.github.io/'>here</a>
+### 💼 Portfolio: 
+Checkout my portifolio  <a href='https://leeladhar206.github.io/'>here</a>.
 ### 🌐 Socials:
   <table>
   <tr>
@@ -27,10 +27,6 @@ Checkout my portifolio  <a href='https://leeladhar206.github.io/'>here</a>
 </table>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
-<div>
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
-</div>
-
 ### 💻 Tech Stack:
 <br/>
 <p align="left">
@@ -38,9 +34,9 @@ Checkout my portifolio  <a href='https://leeladhar206.github.io/'>here</a>
     <img src="https://skillicons.dev/icons?i=html,css,js,git,react,redux,nodejs,express,mongodb" />
   </a>
 </p>
-<hr/>
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeladhar206&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Leeladhar206&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<hr/>
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
