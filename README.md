@@ -11,8 +11,8 @@ Skilled full-stack web developer in MERN. Experienced in solo and team projects.
 ### 💼 Portfolio:  <a href='https://leeladhar206.github.io/'>https://leeladhar206.github.io</a>
 
 ### 🌐 Socials:
-#### LinkedIn: <a href="https://www.linkedin.com/in/leeladharjagarapu/">linkedin.com/in/leeladharjagarapu</a>
-#### Mail:<a href="mailto:leeladharjagarapu@gmail.com">leeladharjagarapu@gmail.com</a>
+#### 🔗 LinkedIn: <a href="https://www.linkedin.com/in/leeladharjagarapu/">linkedin.com/in/leeladharjagarapu</a>
+#### 📨Mail:<a href="mailto:leeladharjagarapu@gmail.com">leeladharjagarapu@gmail.com</a>
       
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
