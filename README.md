@@ -8,8 +8,8 @@
 Skilled full-stack web developer in MERN. Experienced in solo and team projects.Ready to play a role in impactful web development endeavors.
 <br/> 
 
-### 💾 Portfolio
-
+### 💾 Portfoli 
+Checkout my portifolio  <a href='https://leeladhar206.github.io/'>here</a>
 ### 🌐 Socials:
   <table>
   <tr>
